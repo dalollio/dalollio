@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dalollio
+- :iphone: I'm a mobile developer, using Nativescript+Angular and Ract-Native
 - 👀 I’m interested in BackEnd or FullStack Web Projects
 - 🌱 I’m currently learning NEstJS, ReactJS and Kubernets 🤘!
 - 💞️ I’m looking to collaborate on starter projects to help and increase my brain! 
