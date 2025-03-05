@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dalollio
-- 💻 NodeJS | NestJS | Angular | Docker
+- 💻 NodeJS | NestJS | Angular | Docker | React | React Native
 - 👀 I’m interested in BackEnd or FullStack Web Projects
-- 🌱 I’m currently learning NEstJS, ReactJS and Kubernets 🤘!
 - 📫 Send message here!! or 
 - https://www.linkedin.com/in/carlos-dalollio-rodrigues
 
